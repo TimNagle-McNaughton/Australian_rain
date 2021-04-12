@@ -4,7 +4,7 @@ Weather is a difficult dark art that many of us only notice when it is inaccurat
 
 Here we explore a more limited problem, how well can a random forest classifier predict if there was rain at a weather station today, or if there will be rain tomorrow based on common weather metrics like temperature, humidity, air pressure, and wind speed/direction. 
 
-![Temperaures in Australian cities](https://github.com/TimNagle-McNaughton/Australian_rain/blob/main/Figures/Example-temp_data.png
+![Temperaures in Australian cities](https://github.com/TimNagle-McNaughton/Australian_rain/blob/main/Figures/Example-temp_data.png)
 
 ----
 
